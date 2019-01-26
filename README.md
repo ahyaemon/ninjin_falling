@@ -1,2 +1,8 @@
 # ninjin_falling
-The ninjin of the falling ninjin
+落ちていくニンジンの動画をつくる。
+
+ニンジンは3Dでモデリングする。
+
+動画はUnityで作成する。
+
+曲ものせる。
